@@ -3,7 +3,7 @@ The file would(or with much possibility) be uploaded to public space (such as Gi
 The resource (like photos, figures, diagrams, codes or internet resource) used to write the documentation would be given in the article as much as possible.
 Or the access route/method would be given if the resource is spreading-limited.
 
-If not noted particularly, all documentation and codes written by the author himself (Toichi Tanaka, 11911421@mail.sustech.edu.cn) are seperately
+If not noted particularly, all documentation and codes written by the author himself (Toichi Tanaka, ContactMeThroughMail@protonmail.com) are seperately
 follow CC-BY-NC-4.0 and MIT License. Thank you for your corporation for obeying the sharing rules. I am aiming at realizing a knowledge-free world!
 
 If you have any question, please reach me (Toichi Tanaka) through email ContactMeThroughMail@protonmail.com. I am glad to answer your question as I can.
