@@ -6,7 +6,7 @@ Or the access route/method would be given if the resource is spreading-limited.
 If not noted particularly, all documentation and codes written by the author himself (Toichi Tanaka, 11911421@mail.sustech.edu.cn) are seperately
 follow CC-BY-NC-4.0 and MIT License. Thank you for your corporation for obeying the sharing rules. I am aiming at realizing a knowledge-free world!
 
-If you have any question, please reach me (Toichi Tanaka) through email 11911421@mail.sustech.edu.cn. I am glad to answer your question as I can.
+If you have any question, please reach me (Toichi Tanaka) through email ContactMeThroughMail@protonmail.com. I am glad to answer your question as I can.
 
 这个文件夹是我的知识学习-知识时间记录文档的汇总。在撰写时请注意不要放入任何私人的、需要保密的、重要的信息。
 这个文件夹很大可能流入公共知识领域以供大家学习阅读。
